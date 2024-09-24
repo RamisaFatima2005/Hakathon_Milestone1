@@ -1,0 +1,15 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(238, 245, 242);
+}
+
+  .resume {
+    margin: auto;
+    width: 600px;
+    padding: 20px;
+    background-color: rgb(185, 181, 181);
+  }
+  
+.hidden{
+    display: none;
+}
